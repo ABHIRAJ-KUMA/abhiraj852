@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**abhiraj852/abhiraj852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhiraj Kumar! 👋
 
-Here are some ideas to get you started:
+Thanks for visiting my profile. I am currently a bachelor's student in the field of Computer Engineering. Let's chat if you got an idea in mind. Learning more concepts in the field of Web Development and trying to get better at it. Please help me if you find any issues with my projects. You can find me on  <a href="https://www.linkedin.com/in/abhiraj-k-41b7bb102">
+    <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Abhiraj's github stats](https://github-readme-stats.vercel.app/api?username=abhiraj852&show_icons=true&theme=radical)
+
+
+- 🔭 I’m currently working on my Final Year Project.
+- 🌱 I’m currently learning in-depth about Node.js, Express.js, React.js, and MongoDB.
+- 👯 I’m looking to collaborate on any projects which are cool.
+- 🤔 I’m looking for help with connecting teammates interested in more research on these topics.
+- 💬 Ask me about anything.
+- 📫 Reach out to me at: abhirajsinha905@gmail.com
