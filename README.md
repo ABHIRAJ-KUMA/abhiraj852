@@ -1,7 +1,7 @@
 
 # Hi, I'm Abhiraj Kumar! 👋
 
-Thanks for visiting my profile. I am currently a bachelor's student in the field of Computer Engineering. Let's chat if you got an idea in mind. Learning more concepts in the field of Web Development and trying to get better at it. Please help me if you find any issues with my projects. You can find me on  <a href="https://www.linkedin.com/in/abhiraj-k-41b7bb102">
+Thanks for visiting my profile. I am currently a bachelor's student in the field of Computer Engineering. Let's chat if you got an idea in mind. Learning more concepts in the field of Web Development and trying to get better at it. Please help me if you find any issues with my projects. You can find me on  <a href="https://www.linkedin.com/in/abhiraj-kumar">
     <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png" />
 </a>
 
